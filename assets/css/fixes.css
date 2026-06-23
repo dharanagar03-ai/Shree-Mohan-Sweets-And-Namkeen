@@ -1,8 +1,0 @@
-.logo-link{display:flex;align-items:center;gap:12px;text-decoration:none}
-.site-header .logo-img{width:84px!important;height:84px!important;object-fit:contain!important;border-radius:12px!important;background:#fff;padding:3px}
-.logo-text h1{font-size:20px;color:var(--pink);line-height:1.2;margin:0;font-weight:700;white-space:normal}
-.logo-text p{font-size:13px;color:var(--muted);font-weight:700}
-@media (max-width:850px){
-  .site-header .logo-img{width:74px!important;height:74px!important}
-  .logo-text h1{font-size:20px}
-}
